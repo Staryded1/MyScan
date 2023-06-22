@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596005639108",
+    "project_id": "myscan-f05b5",
+    "storage_bucket": "myscan-f05b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596005639108:android:07caa4d610f1dad63d0a91",
+        "android_client_info": {
+          "package_name": "com.example.myscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596005639108-eko8meelelk1ogk4karve67h9onf5shg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myscan",
+            "certificate_hash": "6745a85343521a2e2f358d10b77aa9cd8372c20f"
+          }
+        },
+        {
+          "client_id": "596005639108-resg93e22jbkp5f3mqiflk7h20d0old0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlZGmi84-mEpqYKidojP01YEvJk24816c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596005639108-resg93e22jbkp5f3mqiflk7h20d0old0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
